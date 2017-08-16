@@ -1,6 +1,6 @@
 # 下载源码：
 ```
-git clone https://github.com/iarwen/docker-dubboadmin.git
+git clone https://github.com/chenvi/dockerDubboAdmin.git
 ```
 
 # 构建脚本
